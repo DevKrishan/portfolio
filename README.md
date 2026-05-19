@@ -7,6 +7,11 @@ I build products at the intersection of AI and real user pain. My work lives in 
 📎 **Full portfolio, case studies & prototypes → [linktr.ee/devkrishan.r](https://linktr.ee/devkrishan.r)**
 
 ---
+## 🎨 Visual depiction of how I Ship Solutions: 
+
+<img width="1536" height="1024" alt="How I ship with AI" src="https://github.com/user-attachments/assets/ce36328a-43b6-4039-9241-70a43d5df616" />
+
+---
 
 ## 🤖 How I Use AI (Actually)
 
@@ -83,11 +88,6 @@ I build fully interactive prototypes that engineering, design, sales, and leader
 
 Generated 50+ knowledge articles covering all 5 major SparrowGenie features in **2 days**, using AI with strict human governance. Support and self-serve docs shipped *alongside* the product — not 6 weeks after. Earned high CSAT scores and leadership appreciation.
 
----
-
-## 🎨 Visual depiction of how I Ship Solutions: 
-
-<img width="1536" height="1024" alt="How I ship with AI" src="https://github.com/user-attachments/assets/ce36328a-43b6-4039-9241-70a43d5df616" />
 
 ---
 
