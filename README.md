@@ -85,6 +85,12 @@ Generated 50+ knowledge articles covering all 5 major SparrowGenie features in *
 
 ---
 
+## 🎨 Visual depiction of how I Ship Solutions: 
+
+<img width="1536" height="1024" alt="How I ship with AI" src="https://github.com/user-attachments/assets/ce36328a-43b6-4039-9241-70a43d5df616" />
+
+---
+
 ## 🛠️ Work History
 
 **Product Manager — SurveySparrow** *(May 2022 – Apr 2025)*
