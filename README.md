@@ -7,12 +7,6 @@ I build products at the intersection of AI and real user pain. My work lives in 
 📎 **Full portfolio, case studies & prototypes → [linktr.ee/devkrishan.r](https://linktr.ee/devkrishan.r)**
 
 ---
-## 🎨 Visual depiction of how I Ship Solutions: 
-
-<img width="1536" height="1024" alt="How I ship with AI" src="https://github.com/user-attachments/assets/ce36328a-43b6-4039-9241-70a43d5df616" />
-
----
-
 ## 🤖 How I Use AI (Actually)
 
 AI is a core part of my PM craft — not a buzzword I drop in interviews. Here's what that looks like in practice:
@@ -25,6 +19,8 @@ AI is a core part of my PM craft — not a buzzword I drop in interviews. Here's
 | **Internal tooling** | Claude Code + Google App Scripts | Bespoke lunch distribution system with automated logging for non-technical staff |
 
 > My philosophy: AI is only as useful as the operator's judgment. I direct it with sharp prompts, review every output critically, and treat it as a force multiplier — not a replacement for my own thinking.
+
+<img width="1536" height="1024" alt="How I ship with AI" src="https://github.com/user-attachments/assets/ce36328a-43b6-4039-9241-70a43d5df616" />
 
 ---
 
